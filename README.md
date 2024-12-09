@@ -65,23 +65,6 @@ I’m a passionate software developer with over 8 years of experience delivering
 - Jira
 - Confluence
 
-<br/>
-🧠 Soft Skills:
-<br/>
-<br/>
-
-🤝 Teamwork:
-- Experience working with global and multidisciplinary teams.
-
-🌍 Adaptability:
-- Easily adjust to different scenarios and demands.
-
-💪 Resilience:
-- Ability to face challenges and overcome them with persistence.
-
-💡 Continuous Improvement:
-- Ongoing learning and personal development.
-
 With a postgraduate degree in Full Stack Web Development and a bachelor’s degree in Information Systems, I’m always seeking opportunities to enhance my skills and contribute with innovative solutions.<!----></span>
 <br/>
 <br/>
