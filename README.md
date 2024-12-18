@@ -79,7 +79,7 @@ With a postgraduate degree in Full Stack Web Development and a bachelor’s degr
 
 ---
 
-<div>
+<div align="center">
   <a href="https://github.com/gilberto-oliveira">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gilberto-oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilberto-oliveira&layout=compact&langs_count=7&theme=tokyonight"/>
