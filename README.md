@@ -23,7 +23,7 @@ I’m a passionate software developer with over 8 years of experience delivering
   <a href="#" title="HTML5"><img alt="HTML5" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
   <a href="#" title="CSS3"><img alt="CSS3" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
   <a href="#" title="JavaScript"><img alt="JavaScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
-  <a href="#" title="TypeScript"><img alt="TypeScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
+  <a href="#" title="Threejs"><img alt="Threejs" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" /></a>
   <a href="#" title="Angular"><img alt="Angular" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" /></a>
   <a href="#" title="React"><img alt="React" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 </div>
