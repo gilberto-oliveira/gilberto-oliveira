@@ -26,8 +26,6 @@ I’m a passionate software developer with over 8 years of experience delivering
   <a href="#" title="TypeScript"><img alt="TypeScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
   <a href="#" title="Angular"><img alt="Angular" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" /></a>
   <a href="#" title="React"><img alt="React" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
-  <a href="#" title="Bootstrap"><img alt="Bootstrap" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a>
-  <a href="#" title="Material IU"><img alt="Material IU" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></a>
 </div>
 
 <br />
