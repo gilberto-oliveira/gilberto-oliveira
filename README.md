@@ -16,7 +16,7 @@
 
 ###
 
-I’m a passionate software developer with over 8 years of experience delivering high-quality, impactful solutions across challenging projects. My expertise spans frontend, backend, and cloud technologies, and I’ve had the privilege of collaborating with global, multidisciplinary teams to create innovative and scalable systems.
+I’m a passionate software developer with over 9 years of experience delivering high-quality, impactful solutions across challenging projects. My expertise spans frontend, backend, and cloud technologies, and I’ve had the privilege of collaborating with global, multidisciplinary teams to create innovative and scalable systems.
   
 **💻 Frontend:**
 <div style="display: inline_block">
