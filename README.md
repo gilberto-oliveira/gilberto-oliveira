@@ -34,7 +34,6 @@ I’m a passionate software developer with over 9 years of experience delivering
   <a href="#" title="C Sharp"><img alt="C Sharp" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></a>
   <a href="#" title=".NET"><img alt=".NET" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" /></a>
   <a href="#" title="Python"><img alt="Python" height="32" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'></a>
-  <a href="#" title="Django"><img alt="Django" height="32" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg'></a>
 </div>
 
 <br />
