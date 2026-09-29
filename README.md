@@ -71,10 +71,3 @@ I’m a passionate software developer with over 9 years of experience delivering
 With a postgraduate degree in Full Stack Web Development and a bachelor’s degree in Information Systems, I’m always seeking opportunities to enhance my skills and contribute with innovative solutions.<!----></span>
 
 ---
-
-<div align="center">
-  <a href="https://github.com/gilberto-oliveira">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gilberto-oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilberto-oliveira&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
