@@ -41,7 +41,7 @@ Throughout my career, I've collaborated with multidisciplinary and international
 ### ⚙️ Backend & Software Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,nodejs,java,spring&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs&theme=dark" />
 </p>
 
 **Core expertise:**
@@ -49,7 +49,7 @@ Throughout my career, I've collaborated with multidisciplinary and international
 - ASP.NET Core, Web API, MVC & Entity Framework Core
 - RESTful APIs, Microservices & Distributed Systems
 - Clean Architecture, SOLID Principles & Design Patterns
-- Python, Django, Django REST Framework & Odoo ERP
+- Python & Odoo ERP
 - Background Services, Integrations & Event-Driven Architecture
 
 ### 🎨 Frontend Development
@@ -147,9 +147,10 @@ Throughout my career, I've collaborated with multidisciplinary and international
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gilberto-oliveira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilberto-oliveira&theme=tokyonight" width="95%" alt="GitHub Profile Details" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilberto-oliveira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gilberto-oliveira&theme=tokyonight" width="47%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gilberto-oliveira&theme=tokyonight" width="47%" alt="Most Used Languages" />
 
 </div>
 
