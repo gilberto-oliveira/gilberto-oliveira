@@ -159,10 +159,10 @@ Throughout my career, I've collaborated with multidisciplinary and international
 ## 🎓 Education
 
 🎓 **Postgraduate Degree in Full Stack Web Development**  
-Pontifical Catholic University of Minas Gerais (PUC Minas)
+Pontifícia Universidade Católica de Minas Gerais (PUC Minas)
 
 🎓 **Bachelor's Degree in Information Systems**  
-Federal University of Southern and Southeastern Pará (UNIFESSPA)
+Universidade Federal do Sul e Sudeste do Pará (Unifesspa)
 
 ---
 
