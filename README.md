@@ -3,7 +3,7 @@
 
 # 👋🏾 Hi, I'm Gilberto Oliveira!
 
-### Senior Full Stack Software Developer | .NET Specialist | AI & Cloud Enthusiast
+### Full Stack Software Developer | .NET Specialist | AI & Cloud Enthusiast
 
 **Building scalable software, intelligent solutions, and modern digital experiences.**
 
@@ -16,7 +16,7 @@
 
 ## 🧑🏾‍💻 About Me
 
-I'm a **Senior Full Stack Software Developer** with over **9 years of experience** designing, developing, and maintaining scalable, high-performance software solutions.
+I'm a **Full Stack Software Developer** with over **9 years of experience** designing, developing, and maintaining scalable, high-performance software solutions.
 
 My primary expertise lies in **C# and the .NET ecosystem**, building robust APIs, microservices, enterprise applications, and distributed systems.
 
